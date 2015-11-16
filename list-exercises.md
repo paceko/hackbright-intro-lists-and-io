@@ -49,4 +49,6 @@ my_list[-3:-1]|
 
 # That's it!
 
-Now go back to the main page of the repository by clicking the `hackbright-intro-lists-and-io` link at the top of the page.
+Now call over one of the instructors or the TA to come look through your commit history! 
+
+Once they have, go back to the main page of the repository by clicking the `hackbright-intro-lists-and-io` link at the top of the page.
