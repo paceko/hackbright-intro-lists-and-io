@@ -46,3 +46,7 @@ my_list[-3:-1]|
 
 
 (remember to commit after editing this table to contain your answer, and removing this line!)
+
+# That's it!
+
+Now go back to the main page of the repository by clicking the `hackbright-intro-lists-and-io` link at the top of the page.
