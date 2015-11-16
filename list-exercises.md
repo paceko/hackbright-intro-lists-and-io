@@ -34,8 +34,8 @@ Use the following list for the questions:
 ### Use the list below to complete the following table (the first one is done for you):
 my_list = [1, 2, “kitten”,  4, “five”, 6, 7]
 
-access | value
--------------|---------
+access method | value
+--------------|---------
 my_list[0]    | 1
 my_list[1:3]  |
 my_list[1:6]  |
