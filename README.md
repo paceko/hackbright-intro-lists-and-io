@@ -15,3 +15,5 @@ Now, clone your fork (note: make sure not to clone the original, but your own fo
 As you work through the exercises, each time you complete an exercise or function, make a commit.  Use the `--author` flag or set the `.gitconfig` so that the commits show up under the right name!  Run `git log` after your first commit to make sure it's under the right name.
 
 # File I/O exercises
+
+We'll do these after the file I/O lecture!
