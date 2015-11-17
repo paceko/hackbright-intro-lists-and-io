@@ -22,7 +22,9 @@ As you go through these exercises, make sure to commit after each change, and pu
     1. This function should print "Our favorite foods are the same!" if your top favorite food is the same as your pairs.
     2. Otherwise, the function should print "Our favorite foods are different"
   8. Call the compare_favs function with your favs and your pair’s favs <br>*Remember to commit your changes at this point!*
+
 9. Run `compare_favs.py`! Make sure it works!  Make sure to try lots of different inputs including some where they are the same and some not!
+
 
 Example:
 ```
