@@ -16,16 +16,20 @@ Use the following list for the questions:
 
 ### How would I access the element at index 3? 
 
-- Your answer here (remember to commit after editing this line to contain your answer!)
+- mylist [3] (remember to commit after editing this line to contain your answer!)
 
 ### What would I get if I did my_list[1]?
 
-- Your answer here (remember to commit after editing this line to contain your answer!)
+- 2 (remember to commit after editing this line to contain your answer!)
 
 ### What are three ways I could access the last element of the list?
 *(HINT: Look up the len method for Python lists.)*
 
-- Your answer here (remember to commit after editing this line to contain your answer!)
+- mylist [4]
+- mylist [-1]
+- mylist [ len (mylist) -1 ]
+
+- (remember to commit after editing this line to contain your answer!)
 
 ### How would I find the length of the list?
 
